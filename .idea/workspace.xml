@@ -41,7 +41,18 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
-  <component name="RunManager" selected="Go Test.TestOneEditAway in code.byted.org/sunyiwei.24601/CrackingCode/linked_list">
+  <component name="RunManager" selected="Go Test.TestFirstMissingPositive in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0041.First-Missing-Positive">
+    <configuration name="TestFirstMissingPositive in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0041.First-Missing-Positive" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="CrackingCode" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0041.First-Missing-Positive" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0041.First-Missing-Positive" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFirstMissingPositive\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestIsPermutationOfPalindrome in code.byted.org/sunyiwei.24601/CrackingCode/linked_list" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="CrackingCode" />
       <working_directory value="$PROJECT_DIR$/linked_list" />
@@ -77,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestFirstMissingPositive in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0041.First-Missing-Positive" />
         <item itemvalue="Go Test.TestOneEditAway in code.byted.org/sunyiwei.24601/CrackingCode/linked_list" />
         <item itemvalue="Go Test.TestIsUnique in code.byted.org/sunyiwei.24601/CrackingCode/linked_list" />
         <item itemvalue="Go Test.TestIsPermutationOfPalindrome in code.byted.org/sunyiwei.24601/CrackingCode/linked_list" />
@@ -99,50 +111,50 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="183" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1623262294160" />
-    <state width="1396" height="303" key="GridCell.Tab.0.bottom" timestamp="1623307015490">
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom" timestamp="1623587333956">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015490" />
-    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623263029664" />
+    <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623587333956" />
     <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1623175360357" />
-    <state width="1396" height="303" key="GridCell.Tab.0.center" timestamp="1623307015489">
+    <state width="1396" height="303" key="GridCell.Tab.0.center" timestamp="1623587333954">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015489" />
-    <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623263029661" />
+    <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623587333954" />
     <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1623175360357" />
-    <state width="1396" height="303" key="GridCell.Tab.0.left" timestamp="1623307015489">
+    <state width="1396" height="303" key="GridCell.Tab.0.left" timestamp="1623587333954">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015489" />
-    <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623263029659" />
+    <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623587333954" />
     <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1623175360356" />
-    <state width="1396" height="303" key="GridCell.Tab.0.right" timestamp="1623307015490">
+    <state width="1396" height="303" key="GridCell.Tab.0.right" timestamp="1623587333955">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015490" />
-    <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623263029663" />
+    <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623587333955" />
     <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1623175360357" />
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1623307015492">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1623587334268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015492" />
-    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623263025285" />
-    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1623307015491">
+    <state width="1396" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623587334268" />
+    <state width="1396" height="303" key="GridCell.Tab.1.center" timestamp="1623587334268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015491" />
-    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1623263025285" />
-    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1623307015491">
+    <state width="1396" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1623587334268" />
+    <state width="1396" height="303" key="GridCell.Tab.1.left" timestamp="1623587334267">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015491" />
-    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1623263025284" />
-    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1623307015492">
+    <state width="1396" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1623587334267" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right" timestamp="1623587334268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015492" />
-    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1623263025285" />
+    <state width="1396" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1623587334268" />
     <state x="220" y="79" key="SettingsEditor" timestamp="1623262347220">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
