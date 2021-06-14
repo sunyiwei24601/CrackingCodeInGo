@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$/leetcode/0438.Find-All-Anagrams-In-A-String" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Test.TestThreeSum in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0015.3Sum">
+  <component name="RunManager" selected="Go Test.TestThreeSumClosest in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0016.3SumClosest">
     <configuration name="TestFindAllAnagrams in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0438.Find-All-Anagrams-In-A-String" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="CrackingCode" />
       <working_directory value="$PROJECT_DIR$/leetcode/0438.Find-All-Anagrams-In-A-String" />
@@ -80,17 +80,6 @@
       <pattern value="^\QTestMinimumWindowSubstring\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSetMatrixZeroes in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0073.Set-Matrix-Zeroes" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="CrackingCode" />
-      <working_directory value="$PROJECT_DIR$/leetcode/0073.Set-Matrix-Zeroes" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0073.Set-Matrix-Zeroes" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestSetMatrixZeroes\E$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestThreeSum in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0015.3Sum" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="CrackingCode" />
       <working_directory value="$PROJECT_DIR$/leetcode/0015.3Sum" />
@@ -102,13 +91,24 @@
       <pattern value="^\QTestThreeSum\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestThreeSumClosest in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0016.3SumClosest" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="CrackingCode" />
+      <working_directory value="$PROJECT_DIR$/leetcode/0016.3SumClosest" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0016.3SumClosest" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestThreeSumClosest\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestThreeSumClosest in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0016.3SumClosest" />
         <item itemvalue="Go Test.TestThreeSum in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0015.3Sum" />
         <item itemvalue="Go Test.TestFindAllAnagrams in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0438.Find-All-Anagrams-In-A-String" />
         <item itemvalue="Go Test.TestFindDisappearedNumbers in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0448.Find-All-Numbers-Disappeared" />
         <item itemvalue="Go Test.TestMinimumWindowSubstring in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0076.Minimum-Window-Substring" />
-        <item itemvalue="Go Test.TestSetMatrixZeroes in code.byted.org/sunyiwei.24601/CrackingCode/leetcode/0073.Set-Matrix-Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -128,29 +128,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="183" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1623262294160" />
-    <state width="1396" height="244" key="GridCell.Tab.0.bottom" timestamp="1623656025879">
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom" timestamp="1623692512249">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015490" />
-    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623656025879" />
+    <state width="1396" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623692512249" />
     <state width="1396" height="303" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1623609999569" />
-    <state width="1396" height="244" key="GridCell.Tab.0.center" timestamp="1623656025878">
+    <state width="1396" height="244" key="GridCell.Tab.0.center" timestamp="1623692512248">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015489" />
-    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623656025878" />
+    <state width="1396" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623692512248" />
     <state width="1396" height="303" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1623609999567" />
-    <state width="1396" height="244" key="GridCell.Tab.0.left" timestamp="1623656025877">
+    <state width="1396" height="244" key="GridCell.Tab.0.left" timestamp="1623692512248">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015489" />
-    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623656025877" />
+    <state width="1396" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623692512248" />
     <state width="1396" height="303" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1623609999565" />
-    <state width="1396" height="244" key="GridCell.Tab.0.right" timestamp="1623656025878">
+    <state width="1396" height="244" key="GridCell.Tab.0.right" timestamp="1623692512249">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1396" height="303" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1623307015490" />
-    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623656025878" />
+    <state width="1396" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623692512249" />
     <state width="1396" height="303" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1623609999568" />
     <state width="1396" height="303" key="GridCell.Tab.1.bottom" timestamp="1623656025790">
       <screen x="0" y="0" width="1440" height="900" />
