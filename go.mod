@@ -1,1 +1,1 @@
-module code.byted.org/sunyiwei.24601/CrackingCode
+module github.com/sunyiwei.24601/CrackingCode
